@@ -1,0 +1,5 @@
+#baseURL = 'https://bingchilling.org/'
+languageCode = 'en-us'
+title = 'Nation of bingChilling Amnesty Coalition'
+#theme = 'ananke'
+theme = 'spectral'
