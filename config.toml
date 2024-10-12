@@ -9,7 +9,7 @@ theme = "spectral"
 [params]
 fancyTitle = "BINGCHILLING" # title for frontpage, may include image
 copyright = "Tyler Durden"
-description = 'Nation of bingChilling Amnesty Coalition<br />Become a bingChilling Citizen for "Pengu" Perks!<br />find out more today <a href="http://bingchilling.org/contact.html">CONTACT</a>.<br />PR by Tyler Durden'
+description = 'Nation of bingChilling Amnesty Coalition<br />Become a bingChilling National for "Pengu" Perks!<br />find out more today <a href="http://bingchilling.org/contact.html">CONTACT</a>.<br />PR by Tyler Durden'
 startbuttonText = "Activate"
 startbuttonLink = "#"
 body_is_markdown = true
