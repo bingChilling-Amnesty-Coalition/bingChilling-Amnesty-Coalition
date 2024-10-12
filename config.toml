@@ -3,7 +3,8 @@ title = "Nation of bingChilling Amnesty Coalition"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
-theme = "spectral"
+##theme = "spectral"
+theme = [" github.com/sbruder/spectral"]
 #googleAnalytics = "G-XXXXXXXXXX"
 
 [params]
