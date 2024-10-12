@@ -2,7 +2,7 @@ title = "The Nation of bingChilling Amnesty Coalition"
 baseURL = "https://bingchilling.org"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-resourceDir = "../resources"
+#resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
