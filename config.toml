@@ -40,7 +40,7 @@ title = '#staycuriousANDkeepsmilin, Advocating Freedom in the Nation of Bingchil
 body = '''
 In a world where curiosity is often suppressed and smiles are discouraged, the Nation of Bingchilling Amnesty Coalition emerges as a beacon of hope. This organization champions the right to explore, learn, and express joy without fear or restriction. With its unwavering dedication to fostering an environment where all individuals can thrive, the N.B.A.C. serves as a powerful catalyst for societal transformation.
 
-The core belief that underpins this coalition's mission is encapsulated in their slogan: "StaycuriousANDkeepsmilin." By embracing and promoting this mantra, they inspire others to embrace their innermost desires and live life with passion and purpose. As the N.B.A.C. continues to grow and expand its reach, it becomes increasingly clear that their commitment to nurturing curiosity and promoting joy is not just a fleeting trend but a lasting revolution that will forever change the landscape of human connection and progress.
+The core belief that underpins this coalition's mission is encapsulated in our slogan: "#staycuriousANDkeepsmilin" By embracing and promoting this mantra, we inspire others to embrace their innermost desires and live life with passion and purpose. As the N.B.A.C. continues to grow and expand its reach, it becomes increasingly clear that our commitment to nurturing curiosity and promoting joy is not just a fleeting trend but a lasting revolution that will forever change the landscape of human connection and progress.
 '''
 
 [[params.one.icon]]
@@ -64,22 +64,22 @@ enable = true
 [[params.two.section]]
 img = "img/pic01.jpg"
 img_alt = "blurry background: white/grey"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = ' The Nation of Bingchilling Amnesty Coalition's rallying cry to embrace the power of curiosity.'
+body = 'The N.B.A.C. firmly believes that true freedom lies in the ability to explore, question, and learn without fear or restriction. By advocating for an environment where curiosity is not only encouraged but celebrated, our organization strives to create a world where every individual can pursue their passions and interests with unbridled enthusiasm. The slogan "#staycuriousANDkeepsmilin" serves as a daily reminder for everyone to stay curious about the world around them, always seeking new experiences and knowledge that will enrich their lives.'
 
 [[params.two.section]]
 img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Encouraging smiles and laughter in an often somber world'
+body = 'The Nation of Bingchilling Amnesty Coalition understands that true freedom is not just about the absence of limitations but also about the presence of happiness. By advocating for an environment where joy and laughter are celebrated, we aim to create a society where people can live their lives with genuine passion and enthusiasm. The slogan "#staycuriousANDkeepsmilin" serves as a call-to-action for everyone to embrace their inner child, finding ways to bring smiles to those around them and creating moments of pure, unadulterated happiness.'
 
 [[params.two.section]]
 img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'The Nation of Bingchilling Amnesty Coalition's unwavering commitment to amnesty for all'
+body = 'The N.B.A.C.'s dedication to advocating for amnesty is a testament to its belief in the inherent goodness and potential of every individual. By championing freedom from unjust restrictions, our organization works tirelessly to ensure that everyone can live their lives without fear or persecution. The slogan "#staycuriousANDkeepsmilin" encapsulates our commitment to creating an environment where curiosity, joy, and amnesty are not just privileges but fundamental rights for all.'
 
 [params.three]
 enable = true
-title = 'Accumsan mus tortor nunc aliquet'
+title = 'Embracing Curiousity'
 body = '''
 Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
 fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
@@ -87,12 +87,12 @@ fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 
 [[params.three.feature]]
 icon = "fa-paper-plane"
-title = "Arcu accumsan"
+title = "Promoting Joy"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
 icon = "solid fa-laptop"
-title = "Ac Augue Eget"
+title = "Advocating Amnesty"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
