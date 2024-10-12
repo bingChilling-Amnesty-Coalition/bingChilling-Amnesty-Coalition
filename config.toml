@@ -25,6 +25,10 @@ title = "Home"
 url = '/posts/'
 title = "Posts"
 
+[[params.menu.main]]
+url = '/about/'
+title = "About"
+
 [taxonomies]
     tag = "tags"
     category = "categories"
